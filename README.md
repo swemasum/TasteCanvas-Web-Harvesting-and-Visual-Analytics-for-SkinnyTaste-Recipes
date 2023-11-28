@@ -16,3 +16,10 @@ Step 3 –Visualise
 • Calories distribution
 • Point distribution
 • Recepie key distribution
+
+Step 4 – Interaction with the user
+My code can perform the following task:
+• Input a calorie range
+• Input a point range
+• Output the first 5 foods sorted based on calories and
+points, with their image and their summary.
