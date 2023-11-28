@@ -1,4 +1,4 @@
-# TasteCanvas-Web-Harvesting-and-Visual-Analytics-for-SkinnyTaste-Recipes
+# TasteCanvas-Web Harvesting and Visual Analytics for SkinnyTaste Recipes (Web scraping, data analysis and visualization and decision making)
 
 Step1 –Webscraping
 • Scrape the data of the first 30 pages of the website https://www.skinnytaste.com
